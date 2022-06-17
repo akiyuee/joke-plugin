@@ -1,0 +1,6 @@
+name: BestOptimizationPlugin
+version: '${project.version}'
+main: me.trolley.bestoptimizationplugin.BestOptimizationPlugin
+api-version: 1.18
+authors: [ Akiyue ]
+description: Joke plugin which I got the idea from a reddit post
